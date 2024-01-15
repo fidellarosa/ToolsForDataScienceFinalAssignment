@@ -1,0 +1,1 @@
+This repository was created as part of the final assigment of the online course "Tools for Data Science" offered by IBM through Coursera. The task was to create a Jupyter notebook and store it in this repository.
